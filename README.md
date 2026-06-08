@@ -22,4 +22,4 @@ The dashboard analyzes employee attrition patterns across departments, job roles
 - HR Employee Attrition Dataset
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/34ea7964-4a99-41ce-b20d-f0d16c8ba575" />
